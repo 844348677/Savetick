@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jnaerator-0.12-shaded">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tdb/src/main/lib/jnaerator-0.12-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/tdb/src/main/lib/jnaerator-0.12-shaded.jar!/" />
+    </SOURCES>
+  </library>
+</component>

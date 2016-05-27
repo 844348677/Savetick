@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TDBAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tdb/src/main/lib/TDBAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/tdb/src/main/lib/TDBAPI.jar!/" />
+    </SOURCES>
+  </library>
+</component>
